@@ -67,4 +67,4 @@
 * **Backend (ME)**: **[ala1012sin](https://github.com/ala1012sin)**
 * **Client (Android)**: **[Dohyeongx3](https://github.com/Dohyeongx3/Capstone_Frontend)**
 * **Database / Login**: **[LeeYoungw](https://github.com/LeeYoungw/CapstoneLogin)**
-* **Main_server**: **[JJWS](https://github.com/JJW8584/CapstoneServer)**
+* **Main_server**: **[JJW8584](https://github.com/JJW8584/CapstoneServer)**
